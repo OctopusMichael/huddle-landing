@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "title": "Grow Together",
+    "ph": "Generate meaningful discussions with your audience and build a strong, loyal community. Think of the insightful conversations you miss out on with a feedback form.",
+    "img": "together md:order-2"
+  },
+  {
+    "id": 1,
+    "title": "Flowing Conversations",
+    "ph": "You wouldn't paginate a conversation in real life, so why do it online? Our threads have just-in-time loading for a more natural flow.",
+    "img": "conversation md:order-1"
+  },
+  {
+    "id": 2,
+    "title": "Your Users",
+    "ph": "It takes no time at all to integrate Huddle with your app's authentication solution. This means, once signed in to your app, your users can start chatting immediately.",
+    "img": "users md:order-2"
+  }
+]
