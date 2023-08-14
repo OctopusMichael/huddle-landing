@@ -8,7 +8,7 @@ import { FaTwitter, FaInstagram, FaFacebookF } from "react-icons/fa";
 const Footer = () => {
   return (
     <>
-      <footer className="md:ps-[120px]  md:py-[120px] h-auto  relative  flex flex-col xl:flex-row  px-[20px] text-white pb-[50px]">
+      <section className="md:ps-[120px]  md:py-[120px] h-auto  relative  flex flex-col xl:flex-row  px-[20px] text-white pb-[50px]">
         <div className=" drop-shadow-2xl  xl:w-[55.5%] absolute  top-[-70px] inset-0 rounded-[15px] h-[140px] md:h-[280px] md:top-[-175px]  w-[90%]  bg-zinc-50 mx-auto flex flex-col justify-center items-center">
           <h1 className="text-black md:mt-[10px] font-bold md:text-[32px]  "> Ready To Build Your Community?</h1>
           <button className="mt-[30px] md:text-[22px] hover:bg-pinkLight shadow-inner rounded-[50px] bg-pink font-bold h-10 w-[50%] md:h-[80px]  text-white  text-sm">
@@ -57,7 +57,7 @@ const Footer = () => {
         </ul>
        <p className="mt-[20px] text-[12px] text-center">&copy; Copyright 2018 Huddle. All rights reserved.</p>
        </div>
-      </footer>
+      </section>
     </>
   );
 };
